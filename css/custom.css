@@ -31,3 +31,12 @@
   padding-top: 2rem;
   background: linear-gradient(to bottom, rgba(240, 248, 255, 0), #f0f8ff 45%);
 }
+
+/* Education: the title on top, then where and when, in the same order on every row. */
+ul.ul-edu li .description p.course {
+  font-weight: 700;
+}
+
+.ul-edu .edu-year {
+  white-space: nowrap;
+}
